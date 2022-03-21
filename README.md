@@ -1,3 +1,0 @@
-- 👋 Hi, I’m @Seankaiser1
-- 👀 I’m interested in learning!
-- 🌱 I’m currently learning to code in Python, C, C#, Java, JS
